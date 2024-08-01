@@ -78,4 +78,4 @@ Public Domain.  See the comment in
 
 ### [src/data/unicode/](src/data/unicode)
 UNICODE, INC. LICENSE AGREEMENT.
-See each file header for details.
+See each file header for details..
